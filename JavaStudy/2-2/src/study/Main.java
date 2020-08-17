@@ -13,7 +13,6 @@ package study;
  *
  */
 public class Main {
-    private static final String Account = null;
 
 	public static void main(String[] args) {
         // ① 以下のルールに従いAccountクラスのインスタンスを生成してください。
