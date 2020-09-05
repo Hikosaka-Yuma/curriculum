@@ -1,0 +1,44 @@
+
+.high{
+  width:600px;
+  height:150px;
+  background-color:#FFFF00;
+}
+
+
+.contents_wrapper{
+  width:600px;
+  display:flex;
+  flex-direction:row;
+}
+
+.contents1 {
+  width:200px;
+  height:150px;
+  background-color:#33FFFF;
+}
+.contents2 {
+  width:200px;
+  height:150px;
+  background-color:#FF0000;
+}
+.contents3 {
+  width:200px;
+  height:150px;
+  background-color:#0000FF;
+}
+.contents4 {
+  width:450px;
+  height:150px;
+  background-color:#00FF00;
+}
+.contents5 {
+  width:150px;
+  height:150px;
+  background-color:#FF00FF;
+}
+.low {
+  width:600px;
+  height:150px;
+  background-color:#33FFFF;
+}
