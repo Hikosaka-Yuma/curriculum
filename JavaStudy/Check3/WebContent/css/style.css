@@ -1,0 +1,38 @@
+
+
+/* jspText.jsp*/
+
+.contents{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+
+
+
+/*header.jsp*/
+
+.header {
+  background-color: gray;
+}
+
+.header-title{
+  display: inline-block;
+  padding: 10px;
+  color: white;
+}
+
+
+.footer {
+	background-color: gray;
+}
+
+/*footer.jsp*/
+.footer-title {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+
